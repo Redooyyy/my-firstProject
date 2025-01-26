@@ -91,7 +91,7 @@ section{
     justify-content: space-between;
     position: relative;
     padding: 0 9%;
-    background: url('/final.jpg') no-repeat;
+    background: url('./final.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     z-index: 51;
